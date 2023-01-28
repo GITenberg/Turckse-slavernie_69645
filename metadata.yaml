@@ -1,5 +1,8 @@
 _repo: Turckse-slavernie_69645
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69645-h/images/new-cover.jpg
 creator:
   author:
     agent_name: Aranda, Emanuel d'
@@ -16,6 +19,8 @@ creator:
     - https://en.wikipedia.org/wiki/Emmanuel_de_Aranda
     - https://nl.wikipedia.org/wiki/Emmanuel_de_Aranda
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69645#Turckse-slavernie
 gutenberg_issued: '2022-12-27'
 identifiers:
   gutenberg: '69645'
